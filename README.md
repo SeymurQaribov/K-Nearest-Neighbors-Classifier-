@@ -5,14 +5,14 @@ This repository contains a Python script that demonstrates the application of a 
 Dataset and Columns
 The diabetes dataset used in this project contains information about various health indicators and the presence or absence of diabetes. The main columns in the dataset include:
 
-Pregnancies
-Glucose
-BloodPressure
-SkinThickness
-Insulin
-BMI
-DiabetesPedigreeFunction
-Age
+Pregnancies,
+Glucose,
+BloodPressure,
+SkinThickness,
+Insulin,
+BMI,
+DiabetesPedigreeFunction,
+Age,
 Outcome (0: No diabetes, 1: Diabetes)
 Main Purpose
 The primary objective of this script is to demonstrate how to perform the following steps using a KNN classifier:
